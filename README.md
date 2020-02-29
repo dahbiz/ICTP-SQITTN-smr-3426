@@ -12,9 +12,9 @@ For more information, please visit ICTP website at [|ICTP〉](http://indico.ictp
 - M. PARIS (University of Milano)
 
 # Topics
-• Open Quantum Systems
-• Non-equilibrium Quantum Dynamics
-• Complex Quantum Systems
-• Quantum Machine Learning
-• Many-body Quantum Systems
-• Physical Foundations of Quantum Information
+- Open Quantum Systems
+- Non-equilibrium Quantum Dynamics
+- Complex Quantum Systems
+- Quantum Machine Learning
+- Many-body Quantum Systems
+- Physical Foundations of Quantum Information
