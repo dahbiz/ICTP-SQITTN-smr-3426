@@ -11,7 +11,7 @@ For more information, please visit ICTP website at [|ICTP〉](http://indico.ictp
 - E. ERCOLESSI (University of Bologna)
 - M. PARIS (University of Milano)
 
-# Topics
+# Topics:
 - Open Quantum Systems
 - Non-equilibrium Quantum Dynamics
 - Complex Quantum Systems
