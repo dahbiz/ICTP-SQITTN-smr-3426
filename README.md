@@ -18,7 +18,9 @@ For more information, please visit ICTP website at [|ICTP〉](http://indico.ictp
 - Quantum Machine Learning
 - Many-body Quantum Systems
 - Physical Foundations of Quantum Information
-
+------------------------------------------------------------------------------------
+#                                  Audio Lectures
+------------------------------------------------------------------------------------
 ✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒ 25-02-2020 ✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒
 
 ✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒ 26-02-2020 ✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒
