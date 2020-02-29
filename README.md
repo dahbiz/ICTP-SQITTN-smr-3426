@@ -22,6 +22,8 @@ For more information, please visit ICTP website at [|ICTP〉](http://indico.ictp
 #                                  Audio Lectures
 ------------------------------------------------------------------------------------
 ✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒ 25-02-2020 ✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒
+
+
 - M. Paris | Lecture 1: 
 - D. Chruscinski | Lecture 2:
 - E. Ercolessi | Lecture 1: 
@@ -29,20 +31,30 @@ For more information, please visit ICTP website at [|ICTP〉](http://indico.ictp
 - A. Buchleitner | Lecture 1:
 - G. Benenti | Lecture 2: 
 ✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒ 26-02-2020 ✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒
+
+
 - E. Ercolessi | Lecture 2:
 - A. Buchleitner | Lecture 2:
 - D. Chruscinski | Lecture 3: 
 - M. Paris | Lecture 2: 
 - G. Benenti | Lecture 3: 
 - S. Campbell | Lecture 3: 
+
+
 ✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒ 27-02-2020 ✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒
+
+
 - S. Campbell | Lecture 4:
 - A. Buchleitner | Lecture 2:
 - M. Paris | Lecture 3:
 - M. Paris | Lecture 4: 
 - E. Ercolessi | Lecture 3:
 - G. Benenti | Lecture 4: 
+
+
 ✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒ 28-02-2020 ✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒
+
+
 - A. Buchleitner | Lecture 4: 
 - E. Ercolessi | Lecture 3:
 - D. Chruscinski | Lecture 4:
