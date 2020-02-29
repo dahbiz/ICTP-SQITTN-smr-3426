@@ -3,3 +3,6 @@ School on Quantum Information Theory and Thermodynamics at the Nanoscale | (smr 
 For more information, please visit ICTP website at [|ICTP〉](http://indico.ictp.it/event/9023/).
 ![|ICTP-SQTTN-smr-3426〉](https://raw.githubusercontent.com/etriZiko/ICTP-SQTTN-smr-3426/master/SQITTN.png) 
 
+- George Washington
+- John Adams
+- Thomas Jefferson
