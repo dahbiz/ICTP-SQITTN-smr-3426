@@ -18,10 +18,10 @@ For more information, please visit ICTP website at [|ICTP〉](http://indico.ictp
 - Quantum Machine Learning
 - Many-body Quantum Systems
 - Physical Foundations of Quantum Information
-------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------
 #                                  Audio Lectures
-------------------------------------------------------------------------------------
-✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒ 25-02-2020 ✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒
+-----------------------------------------------------------------------------
+✒✒✒✒✒✒ 25-02-2020 ✒✒✒✒✒✒
 
 
 - M. Paris | Lecture 1: 
@@ -32,7 +32,7 @@ For more information, please visit ICTP website at [|ICTP〉](http://indico.ictp
 - G. Benenti | Lecture 2: 
 
 
-✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒ 26-02-2020 ✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒
+✒✒✒✒✒✒ 26-02-2020 ✒✒✒✒✒✒
 
 
 - E. Ercolessi | Lecture 2:
@@ -43,7 +43,7 @@ For more information, please visit ICTP website at [|ICTP〉](http://indico.ictp
 - S. Campbell | Lecture 3: 
 
 
-✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒ 27-02-2020 ✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒
+✒✒✒✒✒✒ 27-02-2020 ✒✒✒✒✒✒
 
 
 - S. Campbell | Lecture 4:
@@ -54,7 +54,7 @@ For more information, please visit ICTP website at [|ICTP〉](http://indico.ictp
 - G. Benenti | Lecture 4: 
 
 
-✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒ 28-02-2020 ✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒✒
+✒✒✒✒✒✒ 28-02-2020 ✒✒✒✒✒✒
 
 
 - A. Buchleitner | Lecture 4: 
