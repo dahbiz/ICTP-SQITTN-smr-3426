@@ -63,3 +63,9 @@ Remark*: Due to file size restriction by GitHub, we hosted the files on Dropbox.
 - A. Buchleitner | Lecture 4: [|Play〉](https://www.dropbox.com/s/19v5md57g6shrom/ICTP-SQITTN-A.%20Buchleitner_L4.mp3?dl=0)
 - E. Ercolessi | Lecture 3: [|Play〉](https://www.dropbox.com/s/5hyftfvm02sir7d/ICTP-SQITTN-E.%20Ercolessi_L4.mp3?dl=0)
 - D. Chruscinski | Lecture 4: [|Play〉](https://www.dropbox.com/s/85q8l4libzvgyh9/ICTP-SQITTN-D.%20Chruscinski_L4.mp3?dl=0)
+
+........ Discussion [|Play〉](https://www.dropbox.com/s/lesgaer8a8tx879/Discussion.mp3?dl=0) ........
+
+
+
+Special thanks go to all the organizers. A big thanks to everyone.
