@@ -3,6 +3,9 @@ School on Quantum Information Theory and Thermodynamics at the Nanoscale | (smr 
 For more information, please visit ICTP website at [|ICTP〉](http://indico.ictp.it/event/9023/).
 ![|ICTP-SQTTN-smr-3426〉](https://raw.githubusercontent.com/etriZiko/ICTP-SQTTN-smr-3426/master/SQITTN.png) 
 
+Remark*: Due to file size restriction by GitHub, we hosted the files on Dropbox.
+
+
 # Lecturers:
 - G. BENENTI (University of Insubria, Como)
 - A. BUCHLEITNER (Albert-Ludwigs University of Freiburg)
