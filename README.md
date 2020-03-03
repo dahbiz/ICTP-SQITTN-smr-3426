@@ -49,7 +49,7 @@ Remark*: Due to file size restriction by GitHub, we hosted the files on Dropbox.
 ✒✒✒✒✒✒ 27-02-2020 ✒✒✒✒✒✒
 
 
-- S. Campbell | Lecture 4: [|Play〉]()
+- S. Campbell | Lecture 4: [|Play〉](https://www.dropbox.com/s/gsuui0zlc1op2ga/ICTP-SQITTN-M.%20Paris_L4.mp3?dl=0)
 - A. Buchleitner | Lecture 3: [|Play〉](https://www.dropbox.com/s/21u2z4s28s54xl9/ICTP-SQITTN-A.%20Buchleitner_L3.mp3?dl=0)
 - M. Paris | Lecture 3:  [|Play〉](https://www.dropbox.com/s/tkdoaarpz5ywlfx/ICTP-SQITTN-M.%20Paris_L3.mp3?dl=0)
 - M. Paris | Lecture 4:  [|Play〉](https://www.dropbox.com/s/gsuui0zlc1op2ga/ICTP-SQITTN-M.%20Paris_L4.mp3?dl=0)
