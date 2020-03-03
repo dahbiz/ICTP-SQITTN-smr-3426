@@ -69,8 +69,8 @@ Remark*: Due to file size restriction by GitHub, we hosted the files on Dropbox.
 - E. Ercolessi | Lecture 3: [|Play〉](https://www.dropbox.com/s/5hyftfvm02sir7d/ICTP-SQITTN-E.%20Ercolessi_L4.mp3?dl=0)
 - D. Chruscinski | Lecture 4: [|Play〉](https://www.dropbox.com/s/85q8l4libzvgyh9/ICTP-SQITTN-D.%20Chruscinski_L4.mp3?dl=0)
 
-________________ Discussion [|Play〉](https://www.dropbox.com/s/lesgaer8a8tx879/Discussion.mp3?dl=0)_______________
+______ Discussion [|Play〉](https://www.dropbox.com/s/lesgaer8a8tx879/Discussion.mp3?dl=0)____
 
 
 
-Special thanks go to [ICTP](https://www.ictp.it/), all the organizers and lecturers. A big thanks to everyone.
+✵ Special thanks go to [ICTP](https://www.ictp.it/), all the organizers and lecturers. A big thanks to everyone.
