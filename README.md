@@ -32,7 +32,7 @@ Remark*: Due to file size restriction by GitHub, we hosted the files on Dropbox.
 - E. Ercolessi | Lecture 1: [|Play〉](https://www.dropbox.com/s/zk97fir2iociu09/ICTP-SQITTN-E.%20Ercolessi_L1.mp3?dl=0)
 - S. Campbell | Lecture 2: [|Play〉](https://www.dropbox.com/s/b3n9nfb5knwhmsi/ICTP-SQITTN-S.%20Campbell_L2.mp3?dl=0)
 - A. Buchleitner | Lecture 1:  [|Play〉](https://www.dropbox.com/s/fjlgipuw822lt82/ICTP-SQITTN-A.%20Buchleitner_L1.mp3?dl=0)
-- G. Benenti | Lecture 2: 
+- G. Benenti | Lecture 2: [|Play〉](https://www.dropbox.com/s/t6hgg2w7gyaicoj/ICTP-SQITTN-G%20Benneti_L2.mp3?dl=0)
 
 
 ✒✒✒✒✒✒ 26-02-2020 ✒✒✒✒✒✒
@@ -54,7 +54,7 @@ Remark*: Due to file size restriction by GitHub, we hosted the files on Dropbox.
 - M. Paris | Lecture 3:  [|Play〉](https://www.dropbox.com/s/tkdoaarpz5ywlfx/ICTP-SQITTN-M.%20Paris_L3.mp3?dl=0)
 - M. Paris | Lecture 4:  [|Play〉](https://www.dropbox.com/s/gsuui0zlc1op2ga/ICTP-SQITTN-M.%20Paris_L4.mp3?dl=0)
 - E. Ercolessi | Lecture 3: [|Play〉](https://www.dropbox.com/s/1njddhybaeery33/ICTP-SQITTN-E.%20Ercolessi_L3.mp3?dl=0)
-- G. Benenti | Lecture 4: 
+- G. Benenti | Lecture 4: [|Play〉](https://www.dropbox.com/s/x6qyjx7tq2t9w03/ICTP-SQITTN-G%20Benneti_L4.mp3?dl=0)
 
 
 ✒✒✒✒✒✒ 28-02-2020 ✒✒✒✒✒✒
@@ -64,8 +64,8 @@ Remark*: Due to file size restriction by GitHub, we hosted the files on Dropbox.
 - E. Ercolessi | Lecture 3: [|Play〉](https://www.dropbox.com/s/5hyftfvm02sir7d/ICTP-SQITTN-E.%20Ercolessi_L4.mp3?dl=0)
 - D. Chruscinski | Lecture 4: [|Play〉](https://www.dropbox.com/s/85q8l4libzvgyh9/ICTP-SQITTN-D.%20Chruscinski_L4.mp3?dl=0)
 
-........ Discussion [|Play〉](https://www.dropbox.com/s/lesgaer8a8tx879/Discussion.mp3?dl=0) ........
+________________ Discussion [|Play〉](https://www.dropbox.com/s/lesgaer8a8tx879/Discussion.mp3?dl=0)_______________
 
 
 
-Special thanks go to [ICTP](https://www.ictp.it/) and all the organizers. A big thanks to everyone.
+Special thanks go to [ICTP](https://www.ictp.it/), all the organizers and lecturers. A big thanks to everyone.
