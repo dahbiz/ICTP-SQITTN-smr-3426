@@ -50,7 +50,7 @@ Remark*: Due to file size restriction by GitHub, we hosted the files on Dropbox.
 
 
 - S. Campbell | Lecture 4:
-- A. Buchleitner | Lecture 2:
+- A. Buchleitner | Lecture 3: [|Play〉](https://www.dropbox.com/s/21u2z4s28s54xl9/ICTP-SQITTN-A.%20Buchleitner_L3.mp3?dl=0)
 - M. Paris | Lecture 3:
 - M. Paris | Lecture 4: 
 - E. Ercolessi | Lecture 3:
@@ -60,6 +60,6 @@ Remark*: Due to file size restriction by GitHub, we hosted the files on Dropbox.
 ✒✒✒✒✒✒ 28-02-2020 ✒✒✒✒✒✒
 
 
-- A. Buchleitner | Lecture 4: 
+- A. Buchleitner | Lecture 4: [|Play〉](https://www.dropbox.com/s/19v5md57g6shrom/ICTP-SQITTN-A.%20Buchleitner_L4.mp3?dl=0)
 - E. Ercolessi | Lecture 3:
 - D. Chruscinski | Lecture 4:
