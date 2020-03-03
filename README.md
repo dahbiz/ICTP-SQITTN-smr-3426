@@ -28,7 +28,7 @@ For more information, please visit ICTP website at [|ICTP〉](http://indico.ictp
 - D. Chruscinski | Lecture 2:
 - E. Ercolessi | Lecture 1: 
 - S. Campbell | Lecture 2: 
-- A. Buchleitner | Lecture 1: # [Play](https://www.dropbox.com/s/fjlgipuw822lt82/A.%20Buchleitner_L1.mp3?dl=0)
+- A. Buchleitner | Lecture 1:  [|Play〉](https://www.dropbox.com/s/fjlgipuw822lt82/ICTP-SQITTN-A.%20Buchleitner_L1.mp3?dl=0)
 - G. Benenti | Lecture 2: 
 
 
