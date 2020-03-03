@@ -3,6 +3,11 @@ School on Quantum Information Theory and Thermodynamics at the Nanoscale | (smr 
 For more information, please visit ICTP website at [|ICTP〉](http://indico.ictp.it/event/9023/).
 ![|ICTP-SQTTN-smr-3426〉](https://raw.githubusercontent.com/etriZiko/ICTP-SQTTN-smr-3426/master/SQITTN.png) 
 
+
+
+![|ICTP-SQTTN-Photo〉](https://raw.githubusercontent.com/etriZiko/ICTP-SQITTN-smr-3426/master/SchoolPhoto.JPG)
+
+
 Remark*: Due to file size restriction by GitHub, we hosted the files on Dropbox.
 
 
@@ -42,7 +47,7 @@ Remark*: Due to file size restriction by GitHub, we hosted the files on Dropbox.
 - A. Buchleitner | Lecture 2:  [|Play〉](https://www.dropbox.com/s/qahn7u3120v8dcx/ICTP-SQITTN-A.%20Buchleitner_L2.mp3?dl=0)
 - D. Chruscinski | Lecture 3:  [|Play〉](https://www.dropbox.com/s/oepzeyskwm85wv5/ICTP-SQITTN-D.%20Chruscinski_L3.mp3?dl=0)
 - M. Paris | Lecture 2:  [|Play〉](https://www.dropbox.com/s/a29jcryf75q56qs/ICTP-SQITTN-M.%20Paris_L2.mp3?dl=0)
-- G. Benenti | Lecture 3: 
+- G. Benenti | Lecture 3:  [|Play〉](https://www.dropbox.com/s/ehnvqa02fy3dee7/ICTP-SQITTN-G%20Benneti_L3.mp3?dl=0)
 - S. Campbell | Lecture 3: [|Play〉](https://www.dropbox.com/s/k6gze2i0o14ku9d/ICTP-SQITTN-S.%20Campbell_L3.mp3?dl=0)
 
 
