@@ -8,7 +8,7 @@ For more information, please visit ICTP website at [|ICTP〉](http://indico.ictp
 ![|ICTP-SQTTN-Photo〉](https://raw.githubusercontent.com/etriZiko/ICTP-SQITTN-smr-3426/master/SchoolPhoto.JPG)
 
 
-Remark*: Due to file size restriction by GitHub, we hosted the files on Dropbox.
+Remarks*: Due to file size restriction by GitHub, we hosted the files on Dropbox.
 
 
 # Lecturers:
