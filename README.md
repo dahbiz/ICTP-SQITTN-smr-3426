@@ -8,7 +8,10 @@ For more information, please visit ICTP website at [|ICTP〉](http://indico.ictp
 ![|ICTP-SQTTN-Photo〉](https://raw.githubusercontent.com/etriZiko/ICTP-SQITTN-smr-3426/master/SchoolPhoto.JPG)
 
 
-Remarks*: Due to file size restriction by GitHub, we hosted the files on Dropbox.
+__Remarks*:
+
+- The opening day lectures of this school not recorded.
+- Due to file size restriction by GitHub, we hosted the files on Dropbox.
 
 
 # Lecturers:
