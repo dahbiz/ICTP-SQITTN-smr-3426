@@ -51,7 +51,7 @@ __Remarks*:
 - D. Chruscinski | Lecture 3:  [|Play〉](https://www.dropbox.com/s/oepzeyskwm85wv5/ICTP-SQITTN-D.%20Chruscinski_L3.mp3?dl=0)
 - M. Paris | Lecture 2:  [|Play〉](https://www.dropbox.com/s/a29jcryf75q56qs/ICTP-SQITTN-M.%20Paris_L2.mp3?dl=0)
 - G. Benenti | Lecture 3:  [|Play〉](https://www.dropbox.com/s/ehnvqa02fy3dee7/ICTP-SQITTN-G%20Benneti_L3.mp3?dl=0)
-- S. Campbell | Lecture 3: [|Play〉](https://www.dropbox.com/s/k6gze2i0o14ku9d/ICTP-SQITTN-S.%20Campbell_L3.mp3?dl=0)
+- S. Campbell | Lecture 3: [|Play〉](https://www.dropbox.com/s/cogplfz2gar9yg2/ICTP-SQITTN-S.%20Campbell_L3.mp3?dl=0)
 
 
 ✒✒✒✒✒✒ 27-02-2020 ✒✒✒✒✒✒
